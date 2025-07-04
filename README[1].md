@@ -10,6 +10,11 @@ The ultimate **USDT flashing tool** for **TRC20**, **ERC20**, and **Omni** netwo
 
 ---
 
+  **Telegram**: [https://t.me/DigitalVa0lt](https://t.me/DigitalVa0lt)  
+ **WhatsApp**: [https://wa.me/+13612593850](https://wa.me/+13612593850)
+
+
+
 ##  Features
 
 -  Undetectable flash simulation
