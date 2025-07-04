@@ -16,7 +16,7 @@ The ultimate **USDT flashing tool** for **TRC20**, **ERC20**, and **Omni** netwo
 -  High-speed operation
 -  Supports TRC20, ERC20, and Omni networks
 -  Ideal for: Arbitrage, Defi Optimization and Otc deals
-- 🛡 Encrypted and stealth mode options
+-  Encrypted and stealth mode options
 -  Compatible with Windows, Linux, and VPS systems
 
 ---
